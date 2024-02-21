@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Janeesha Wickramasinghe</h1>
-- 🌱 I’m currently learning Artificial Intelligence, Computer Architecture, Operating Systems and other bunch of CS topics
+- 🌱 I’m currently learning Data Science, Machine Learning and other bunch of CS topics
 
 - 📫 How to reach me **wickramasinghejj.21@uom.lk**
 
