@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Janeesha Wickramasinghe</h1>
 - 🌱 I’m currently learning Artificial Intelligence, Computer Architecture, Operating Systems and other bunch of CS topics
 
-- 📫 How to reach me **janeeshajwick@gmail.com**
+- 📫 How to reach me **wickramasinghejj.21@uom.lk**
 
 
 
