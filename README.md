@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Janeesha Wickramasinghe</h1>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=JaneeshaJ2001&label=Profile%20views&color=0e75b6&style=flat" alt="janeeshawickramasinghe" /></p>
 
-<img align="right" src="https://github.com/JaneeshaJ2001/JaneeshaJ2001/blob/main/working_space.gif?raw=true" alt="adam-pw" width="40%" />
+<img align="right" src="https://github.com/JaneeshaJ2001/JaneeshaJ2001/blob/main/working_space.gif?raw=true" alt="working_space" width="40%" />
 
 <h3>About Me:</h3>
 
@@ -10,13 +10,14 @@
 - 💬 Ask me about **ML & Data Science | Web Development**
 - 📫 How to reach me: **wickramasinghejj.21@uom.lk**
 
-
+<br>
 <h3>Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/janeesha-wickramasinghe/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janeeshawickramasinghe" height="30" width="40" /></a>&nbsp;
 <a href="https://www.kaggle.com/janeesha210706h" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="janeesha210706h" height="30" width="40" /></a>&nbsp;
 </p>
 
+<br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/></a>&nbsp;
@@ -48,6 +49,7 @@
   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/></a>&nbsp;
 </p>
 
+<br>
 <h3 align="left">GitHub Statistics:</h3>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaneeshaJ2001&theme=github-dark-blue" alt="mystreak" width="51%" />
