@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Janeesha Wickramasinghe</h1>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=JaneeshaJ2001&label=Profile%20views&color=0e75b6&style=flat" alt="janeeshawickramasinghe" /></p>
+
+
 
 <h3>About Me:</h3>
 
