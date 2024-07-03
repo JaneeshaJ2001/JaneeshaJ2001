@@ -45,3 +45,9 @@
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="50" height="50"/></a>&nbsp;
   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/></a>&nbsp;
 </p>
+
+<h3 align="left">GitHub Statistics:</h3>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaneeshaJ2001&theme=github-dark-blue" alt="mystreak" width="51%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JaneeshaJ2001&show_icons=true&theme=github_dark" alt="Janeesha's github stats" width="48%" />
+</p>
