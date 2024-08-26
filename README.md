@@ -8,7 +8,7 @@
 - 👀 I'm interested in **Machine Learning & Data Science**
 - 🧑‍🎓 I’m currently an CSE Undergraduate at **University of Moratuwa**
 - 💬 Ask me about **ML & Data Science | Web Development**
-- 📫 How to reach me: **wickramasinghejj.21@uom.lk**
+- 📫 How to reach me: **janeesha.21@cse.mrt.ac.lk**
 
 <br>
 <h3>Connect with me:</h3>
