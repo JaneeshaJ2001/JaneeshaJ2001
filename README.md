@@ -8,6 +8,7 @@
 - 👀 I'm interested in **Machine Learning & Data Science**
 - 🧑‍🎓 I’m currently an CSE Undergraduate at **University of Moratuwa**
 - 💬 Ask me about **ML & Data Science | Web Development**
+- 👨‍💻 All of my projects are available at [**my portfolio**](https://janeeshajwick.vercel.app/)
 - 📫 How to reach me: **janeesha.21@cse.mrt.ac.lk**
 
 <br>
