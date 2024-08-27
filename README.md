@@ -19,7 +19,7 @@
 </p>
 
 <br>
-<h3 align="left">Frameworks and Languages:</h3>
+<h3 align="left">Tools & Technologies:</h3>
 <p align="left">  
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/></a>&nbsp;
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="50" height="50"/></a>&nbsp;
