@@ -14,8 +14,13 @@
 <br>
 <h3>Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/janeesha-wickramasinghe/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janeeshawickramasinghe" height="30" width="40" /></a>&nbsp;
-<a href="https://www.kaggle.com/janeesha210706h" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="janeesha210706h" height="30" width="40" /></a>&nbsp;
+  
+<a href="https://www.linkedin.com/in/janeesha-wickramasinghe/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width=40 height=40 alt="linkedin" />
+</a>
+<a href="https://www.kaggle.com/janeesha210706h" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="janeesha210706h" height="40" width="40" /></a>
+
 </p>
 
 <br>
@@ -59,8 +64,25 @@
 </p>
 
 <br>
-<h3 align="left">GitHub Statistics:</h3>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaneeshaJ2001&theme=github-dark-blue" alt="mystreak" width="51%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=JaneeshaJ2001&show_icons=true&theme=github_dark" alt="Janeesha's github stats" width="48%" />
-</p>
+<!--Github stats Table--> 
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>GitHub Stats</strong></h3>
+      <p align="center">
+        <a href="https://github.com/JaneeshaJ2001">
+          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=JaneeshaJ2001&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Streak Stats</strong></h3>
+      <p align="center">
+        <a href="https://github.com/JaneeshaJ2001">
+          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=JaneeshaJ2001&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br/>
